@@ -1,0 +1,3 @@
+node_modules/
+agent-key.json
+.env
